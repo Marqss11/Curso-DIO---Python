@@ -1,5 +1,4 @@
 from time import sleep
-import os
 
 saldo = 1000
 limite = 0 
